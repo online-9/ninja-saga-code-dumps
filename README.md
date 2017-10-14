@@ -1,4 +1,6 @@
-useless dump 
+- useless dump 
+- i dont remember if i dumped this anywhere
+- but im dumping this here anyway because im erasing all this rubbish from my pc to clear up precious space
 
 # Dump available with code
 ## code library
