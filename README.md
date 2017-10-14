@@ -2,6 +2,10 @@
 - i dont remember if i dumped this anywhere
 - but im dumping this here anyway because im erasing all this rubbish from my pc to clear up precious space
 
+# tool used for dump
+- https://www.free-decompiler.com/flash/download/
+- usefull for many other stuff too
+
 # Dump available with code
 ## code library
 - u will probably only need the things in /ninjasaga
@@ -31,3 +35,7 @@
 
 ## clan panel
 - just to refer how the clan war works on script
+
+
+### Credits
+- ofc all credit goes to alan from the dev team of ninja saga(assuming), without u this all wouldnt be possible
