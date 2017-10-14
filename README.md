@@ -18,6 +18,7 @@
 - u could refer data library and change the text of item91 to something meaningfull
 
 # Inside alan_test_xb42dfh, code not available, swf only
+ - all of this shit u can dump urself(heh) 'cuz its not protected with obfuscation or anything lulz
 ## ninja association
 - u can use ur own flash decompiler to extract content
 - usually i use this as base for in-game hack because it is ez to start and understand
