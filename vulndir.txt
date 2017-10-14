@@ -5,3 +5,5 @@ https://ns-static-bwhcb6a5289.netdna-ssl.com/swf/alan_test_XB42DFH/swf/panels/ni
 https://ns-static-bwhcb6a5289.netdna-ssl.com/swf/i.m.peChe5TEga58W6TraCha/swf/panels/ninja_association.swf
 
 this places u could get files without protection such as obfuscation.
+
+just get the usual path of the file u want to download and replace the version with alan_test_XB42DFH or i.m.peChe5TEga58W6TraCha whichever one u like.
