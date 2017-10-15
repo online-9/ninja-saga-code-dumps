@@ -1,0 +1,4 @@
+ninjasaga.Central.main.extraData.crew_merit = ninjasaga.Central.main.extraData.crew_merit + 2;
+                                ninjasaga.Central.main.getMainChar().itemUsedInBattle = ninjasaga.Central.main.getMainChar().itemUsedInBattle ? ninjasaga.Central.main.getMainChar().itemUsedInBattle : [];
+                                ClanWarHash = ninjasaga.Main.getHash(String(ninjasaga.Central.main.getMainChar().itemUsedInBattle + ninjasaga.Central.main.recruitedMembers.toString() + ninjasaga.Central.main.selectedNewClanWar + 1));
+                                ninjasaga.Main.amfClient.service("CrewWar.finishLandHunt", [ninjasaga.Account.getAccountSessionKey(), ninjasaga.Central.main.getMainChar().itemUsedInBattle, ninjasaga.Central.main.recruitedMembers.toString(), ninjasaga.Central.main.selectedNewClanWar, 1, ninjasaga.Central.main.updateSequence(), ClanWarHash], getBossRewardResponse04);
