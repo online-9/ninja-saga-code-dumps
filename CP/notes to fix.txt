@@ -1,0 +1,4 @@
+-when character do not have clan set status = Error (fixed)
+-fix stuck on clan search (fixed)
+-when error at login automatically change amf(fixed)
+-find a way to fix undefined stamina (maybe related to stuck at clan search) (fixed)

@@ -1,0 +1,4 @@
+burn sr
+total rep gain [done]
+change the position of "rep gain" to the last [done]
+rectangle box for each char, to see them much easier [done]

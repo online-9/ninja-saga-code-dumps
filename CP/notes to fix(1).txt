@@ -1,0 +1,3 @@
+-burn sr
+-burn token
+-auto load if error
