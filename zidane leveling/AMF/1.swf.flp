@@ -1,0 +1,21 @@
+<flash_project name="1.swf.flp" version="1">
+    <project_folder name="amf" expanded="false">
+        <project_file path=".\1.swf_as\amf\amfConnect.as" filetype="as" />
+    </project_folder>
+    <project_folder name="data" expanded="false">
+        <project_file path=".\1.swf_as\data\Sha1Encrypt.as" filetype="as" />
+        <project_file path=".\1.swf_as\data\clientLibrary.as" filetype="as" />
+    </project_folder>
+    <project_file path=".\1.swf_as\Button_disabledSkin.as" filetype="as" />
+    <project_file path=".\1.swf_as\Button_downSkin.as" filetype="as" />
+    <project_file path=".\1.swf_as\Button_emphasizedSkin.as" filetype="as" />
+    <project_file path=".\1.swf_as\Button_overSkin.as" filetype="as" />
+    <project_file path=".\1.swf_as\Button_selectedDisabledSkin.as" filetype="as" />
+    <project_file path=".\1.swf_as\Button_selectedDownSkin.as" filetype="as" />
+    <project_file path=".\1.swf_as\Button_selectedOverSkin.as" filetype="as" />
+    <project_file path=".\1.swf_as\Button_selectedUpSkin.as" filetype="as" />
+    <project_file path=".\1.swf_as\Button_upSkin.as" filetype="as" />
+    <project_file path=".\1.swf_as\ZidaneMain.as" filetype="as" />
+    <project_file path=".\1.swf_as\focusRectSkin.as" filetype="as" />
+    <project_file path="./1.swf.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>
