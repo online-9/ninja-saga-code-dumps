@@ -1,0 +1,13 @@
+delay 10sec before going into filecheck
+then execute filecheck and flushbattle 100ms apart
+delay 5 sec
+go getfriendreward or whatever is that
+repeat
+
+
+FileChecking.checkHackActivity
+Achievement.flushBattleStat - 5 seconds
+CharacterService.updateCharacter
+FriendReward.getFriendReward - 10 seconds
+if got token then tracking.generated
+else continue loop
